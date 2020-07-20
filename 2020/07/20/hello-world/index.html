@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 
 
-<html lang="en">
+<html lang="en-CN">
 
 
 <head>
   <meta charset="utf-8" />
     
+  <meta name="description" content="成长史" />
+  
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <title>
-    Hello World |  Hexo
+    Hello World |  龙谷
   </title>
   <meta name="generator" content="hexo-theme-ayer">
   
@@ -33,7 +35,7 @@
 
   
 
-<link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+<link rel="alternate" href="/atom.xml" title="龙谷" type="application/atom+xml">
 </head>
 
 </html>
@@ -41,6 +43,17 @@
 <body>
   <div id="app">
     
+      <canvas class="fireworks"></canvas>
+      <style>
+        .fireworks {
+          position: fixed;
+          left: 0;
+          top: 0;
+          z-index: 99999;
+          pointer-events: none;
+        }
+      </style>
+      
       
     <main class="content on">
       <section class="outer">
@@ -241,8 +254,8 @@
     <ul>
       <li>
         Copyrights &copy;
-        2015-2020
-        <i class="ri-heart-fill heart_icon"></i> John Doe
+        2020
+        <i class="ri-heart-fill heart_icon"></i> Long97
       </li>
     </ul>
     <ul>
@@ -297,7 +310,7 @@
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/images/ayer-side.svg" alt="Hexo"></a>
+    <a href="/"><img src="/images/ayer-side.svg" alt="龙谷"></a>
   </div>
   
   <ul class="nav nav-main">
@@ -323,7 +336,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="http://shenyu-vip.lofter.com" target="_blank" rel="noopener">摄影</a>
+      <a class="nav-item-link" href="/null">摄影</a>
     </li>
     
     <li class="nav-item">
@@ -525,6 +538,11 @@
 <!-- ClickLove -->
 
 <!-- ClickBoom1 -->
+
+<script src="https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js"></script>
+
+<script src="/js/clickBoom1.js"></script>
+
 
 <!-- ClickBoom2 -->
 
