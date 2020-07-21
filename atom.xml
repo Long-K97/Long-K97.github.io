@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>龙谷</title>
   
-  
+  <subtitle>龙谷之声</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-20T04:32:22.125Z</updated>
+  <updated>2020-07-20T10:58:56.861Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/20/hello-world/"/>
-    <id>http://yoursite.com/2020/07/20/hello-world/</id>
-    <published>2020-07-20T04:32:22.125Z</published>
-    <updated>2020-07-20T04:32:22.125Z</updated>
+    <title>搭建博客遇到的问题</title>
+    <link href="http://yoursite.com/2020/07/20/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/2020/07/20/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</id>
+    <published>2020-07-20T10:58:56.539Z</published>
+    <updated>2020-07-20T10:58:56.861Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,10 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;center&gt;#龙谷的诞生&lt;/center&gt;
+
+
+&lt;p&gt;  闲来无事，所以写个博客玩玩，之前在朋友手把手的教导下，倒是搭建过一次，但大部分都是朋友做，我自己看，今天，尝试自己做了一遍，实践出真知，没动过手就是太菜了，中间也经历了一些难题，下面就是我做的过程中出现的一些问题：&lt;/
         
       
     
