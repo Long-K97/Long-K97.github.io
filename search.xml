@@ -12,7 +12,7 @@
 链接：https://pan.baidu.com/s/1QdMJ5FClTnonNR0jwXGmYQ  
 提取码：acxt</code></pre><p>（这是我下载好放在网盘里的需要的可以自行下载）</p>
 <p>2.其次在部署到github上的时候，由于仓库名与用户名不一样，导致找不到库，无法部署到github上。</p>
-<img src="/2020/07/20/One/wrong1.png" class="" title="wrong1"> 
+ 
 
 <p>解决方法:</p>
 <p>修改仓库名为：<code>用户名.github.io</code></p>
